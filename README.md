@@ -1,4 +1,4 @@
-👋 Hi, I’m @OliverZ-dot , a senior student in Northeastern University (CN).
+👋 Hi, I’m @OliverZ-dot , a senior student in Northeastern University (CN), major in Computer Security
 
 👀 I’m interested in AI+Security+Robot
 
